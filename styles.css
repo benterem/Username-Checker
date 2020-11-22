@@ -1,0 +1,22 @@
+body {
+    background: #ffefd0;
+}
+form{
+    max-width: 200px;
+    margin: 40px auto;
+    background: #ffe;
+    padding: 10px;
+}
+input{
+    display: block;
+    margin: 10px auto;
+    padding: 4px;
+}
+
+.success{
+   border: 4px solid limegreen; 
+}
+
+.error{
+    border: 4px solid crimson; 
+ }
